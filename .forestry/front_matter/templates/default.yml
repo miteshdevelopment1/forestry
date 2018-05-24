@@ -34,4 +34,5 @@ fields:
   default: ''
 pages:
 - new-page.md
+- post/mitesh-test2.md
 - post/hello-first-post.md
