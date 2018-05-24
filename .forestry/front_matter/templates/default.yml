@@ -33,4 +33,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- new-page.md
 - post/hello-first-post.md
