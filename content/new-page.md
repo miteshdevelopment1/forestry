@@ -5,5 +5,7 @@ draft = true
 tags = []
 title = "New Page"
 topics = []
+[menu.main]
+weight = 1
 
 +++
