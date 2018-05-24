@@ -1,10 +1,11 @@
 +++
-title = "About"
-date = "2014-04-09"
-sidemenu = "true"
+date = "2014-04-09T00:00:00Z"
 description = "About me and this site"
-+++
+sidemenu = "true"
+title = "About"
+type = "page"
 
++++
 Hugo is a static site engine written in Go.
 
 

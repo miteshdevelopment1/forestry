@@ -1,10 +1,11 @@
 +++
-title = "Contact"
-date = "2014-04-09"
-sidemenu = "true"
+date = "2014-04-09T00:00:00Z"
 description = "How to contact me"
-+++
+sidemenu = "true"
+title = "Contact"
+type = "page"
 
++++
 <form class="pure-form pure-form-stacked">
   <fieldset>
     <div class="pure-g">
