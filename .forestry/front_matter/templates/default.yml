@@ -32,3 +32,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- post/hello-first-post.md
