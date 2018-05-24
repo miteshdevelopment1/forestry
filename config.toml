@@ -6,6 +6,7 @@ author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
+publishDir = "docs"
 
 [indexes]
   tag = "tags"
